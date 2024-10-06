@@ -1,8 +1,10 @@
 # DeepJS
-DeepJS is standalone no OS functional javascript framework with deep learning engine to build abstract virtual machine, which support every feature.    
-
-# DeepJS pattern
-Deepjs based on static pizza rating power calculations
+DeepJS is standalone no OS functional javascript framework with deep learning engine to build abstract virtual machine, which support every feature using its natural language package.    
+# 1. Virtual layer AI
+It's running apps. They might be selfcreated or downloaded from store.
+# 2. Top layer AI
+Top layer of Deepjs AI based on precompiled calculations of the rating model. 
+## animal template
 ```mermaid
 pie
     "1. Left hand" : 36
@@ -11,10 +13,10 @@ pie
     "4. Right feet" : 12
     "5. Tail" : 8 
 ```
+# 3. Deep layer AI
+On the deep, rating model can't calculate and verify the value, it's calculating time and building itself.
+## Vertical sync pattern
 
-## Vertical sync
-DeepJS form has vertical sync as [square] = 1FPS = [circle, line, tripple_line]:
-{
 
 ---
 ```mermaid
@@ -24,9 +26,8 @@ pie
 ---
 ---
 ---
-}
 
 # Getting started
 1. Install DeepJS.
-2. Complete test DL order.
-3. Check form.
+2. Complete test deep learning order.
+3. Verify tree components of AI.
