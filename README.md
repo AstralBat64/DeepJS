@@ -40,5 +40,5 @@ DeepJS page can be generated from abstract trianle texture map in fixed coordina
 
 # Getting started
 1. Install DeepJS.
-2. Complete test deep learning order.
-3. Verify tree components of AI.
+2. Learn with your orders.
+3. Verify AI components.
