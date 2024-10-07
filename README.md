@@ -1,5 +1,5 @@
 # DeepJS
-DeepJS is standalone single function javascript framework with deep learning artificial intelligence model to create web pages binded with relevant AI language packages.    
+DeepJS is standalone single function javascript framework with deep learning artificial intelligence model system, which able to create web pages binded with relevant AI language packages using natural language learning orders.    
 # 1. Virtual layer AI
 DeepJS is able to build and run an application depends on the power of AI in general. It can use package shop or restore its core code with pushing new app on top.
 
@@ -34,9 +34,9 @@ pie
 ---
 
 ## Triangle texture pattern
-DeepJS page can be generated from abstract trianle texture map in fixed coordinate polygon. It can be simple, big in size or gradient.
+DeepJS page can be generated from abstract trianle texture map in fixed coordinate polygon gradient with domain or ip watermark base.
 
-![images (2)](https://github.com/user-attachments/assets/b67af239-a540-4a4e-b93e-ad56d724885b)
+![Screenshot 2024-10-07 182550](https://github.com/user-attachments/assets/9adc1d97-dd6b-4b29-9f71-1478a0629a68)
 
 # Getting started
 1. Install DeepJS.
