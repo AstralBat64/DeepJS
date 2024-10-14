@@ -1,6 +1,7 @@
 # DeepJS
-DeepJS is standalone single function javascript framework with deep learning algorithm, which able to create web page synchronously.
-![Screenshot 2024-10-14 024933](https://github.com/user-attachments/assets/d802f792-18c7-441e-9c4e-59dae7809311)
+DeepJS is standalone single function javascript framework with deep learning algorithm, which able to create web page from scratch using vertical sync.
+![Screenshot 2024-10-14 104833](https://github.com/user-attachments/assets/23fc322c-929c-47e8-affb-7b6b040111bb)
+
 
 # Virtual layer
 DeepJS is able to build and run an application depends on the power of AI in general. It can use package shop or restore its core code with pushing new app on top.
