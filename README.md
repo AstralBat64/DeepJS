@@ -8,3 +8,5 @@ It has 3 main thing:
 
 It can be binded with single viewform, update interface and secured account algorithm.
 All of that could be builded dynamically in virtual location.
+
+The goal is to reach politically correct message interface in runtime of server's connection. 
