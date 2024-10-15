@@ -3,7 +3,7 @@ This is standalone javascript framework powered by deep learning artificial inte
 
 1. Marketplace with empty secure account for sale
 2. World map with its history timeline
-3. Open to edit static source code in runtime
+3. Open to edit in runtime static source code and its verification 
 
 # Build tree 
 -boolean[0, 1]
