@@ -4,8 +4,8 @@ It can build a main page store menu in an operating system.
 
 # Features
 1. Protected marketplace with empty accounts for sale
-2. Player with world map and its history
-3. Editable in runtime opened static source code and its verification in browser
+2. Updatable world map player with history
+3. Runtime editor with static opensource code
 
 # Build tree 
 -Boolean[0, 1] as Pyramid 
