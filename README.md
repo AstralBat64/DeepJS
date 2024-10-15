@@ -9,14 +9,14 @@ It can build a main page store menu in an operating system.
 3. Runtime editor with static opensource code
 
 # Build tree 
--Boolean[0, 1] as Pyramid 
+-Boolean[0, 1]
 
---Array[0, 0, 0, 1, 2, 3] as Default
+--Array[0, 0, 0, 1, 2, 3]
 
---Array[1, 2, 3, 4, 5, 6] as Dice
+--Dice[1, 2, 3, 4, 5, 6]
 
----DeepSlotMachine[0-9, 0-9, 0-9] as Slot
+---Slot[0...9, 0...9, 0...9]
 
----SlotCombinationDictonary<Slot, Seed> as Random
+---Dictonary<Slot, Seed>
 
----Bits(728) + 1 second as Time
+---String(728bits + 1 second)
