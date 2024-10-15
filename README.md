@@ -10,12 +10,12 @@ It can build a main page store menu in an operating system.
 # Build tree 
 -Boolean[0, 1] as Pyramid 
 
---Dice[0, 0, 0, 1, 2, 3] as Default
+--Array[0, 0, 0, 1, 2, 3] as Default
 
---Dice[1, 2, 3, 4, 5, 6] as Dice
+--Array[1, 2, 3, 4, 5, 6] as Dice
 
 ---DeepSlotMachine[0-9, 0-9, 0-9] as Slot
 
----CombinationsDictonary<slot, object> as Random
+---SlotCombinationDictonary<slot, class> as Random
 
 ---Bits(728) + 1 second as Time
