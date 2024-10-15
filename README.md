@@ -3,19 +3,19 @@ This is standalone javascript framework powered by deep learning artificial inte
 It can build a main page store menu in an operating system.
 
 # Features
-1. Marketplace with protected empty accounts for sale.
-2. World map and its player
-3. Open to edit in runtime static source code and its verification options
+1. Protected marketplace with empty accounts for sale
+2. Player with world map and history
+3. Editable in runtime static source code and its verification in browser
 
 # Build tree 
--boolean[0, 1]
+-Boolean[0, 1] as Pyramid 
 
---dice[0, 0, 0, 1, 2, 3]
+--Dice[0, 0, 0, 1, 2, 3] as Default
 
---dice[1, 2, 3, 4, 5, 6]
+--Dice[1, 2, 3, 4, 5, 6] as Dice
 
----DeepSlotMachine[0-9,0-9,0-9]
+---DeepSlotMachine[0-9, 0-9, 0-9] as Slot
 
----CombinationsDictonary<slot, object>
+---CombinationsDictonary<slot, object> as Random
 
----Bits(728) + 1 second
+---Bits(728) + 1 second as Time
