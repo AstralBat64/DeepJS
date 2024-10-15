@@ -17,6 +17,6 @@ It can build a main page store menu in an operating system.
 
 ---DeepSlotMachine[0-9, 0-9, 0-9] as Slot
 
----SlotCombinationDictonary<slot, class> as Random
+---SlotCombinationDictonary<Slot, Seed> as Random
 
 ---Bits(728) + 1 second as Time
