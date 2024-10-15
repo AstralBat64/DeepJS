@@ -2,11 +2,17 @@
 This is standalone javascript framework with integrated deep learning javascript model. 
 It has 3 main thing:
 
-1. Marketplace
-2. Map
-3. Static code
+1. Marketplace with empty secure account 
+2. World map with its history timeline
+3. Opened to verification static code
 
-It can be binded with single viewform, update interface and secured account algorithm.
-All of that could be builded dynamically in virtual location.
+# Build tree 
+-boolean[0, 1]
 
-The goal is to reach politically correct message interface in runtime of server's connection. 
+--dice[0, 0, 0, 1, 2, 3]
+
+--dice[1, 2, 3, 4, 5, 6]
+
+---DeepSlotMachine[0-9,0-9,0-9]
+
+---CombinationsDictonary<slot, object>
