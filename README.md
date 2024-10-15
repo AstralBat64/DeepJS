@@ -1,9 +1,9 @@
 # DeepJS
 This is standalone javascript framework powered by deep learning artificial intelligence. It can build an operating system with 3 default options:
 
-1. Marketplace with empty secure account 
+1. Marketplace with empty secure account for sale
 2. World map with its history timeline
-3. Opened to verification static source code
+3. Opened to modification and verification static source code in runtime
 
 # Build tree 
 -boolean[0, 1]
