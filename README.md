@@ -4,7 +4,7 @@ It can build a main page store menu in an operating system.
 
 # Features
 1. Protected marketplace with empty accounts for sale
-2. Player with world map and history
+2. Player with world map and its history
 3. Editable in runtime opened static source code and its verification in browser
 
 # Build tree 
