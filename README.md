@@ -1,5 +1,5 @@
 # DeepJS
-This is standalone javascript framework powered by deep learning artificial intelligence. It can build an operating system with 3 default options:
+This is standalone javascript framework powered by deep learning artificial intelligence. It can build an operating system with 3 default features:
 
 1. Marketplace with empty secure account for sale
 2. World map with its history timeline
