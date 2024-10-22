@@ -1,12 +1,22 @@
 # DeepJS
-This is standalone javascript framework powered by deep learning artificial intelligence. 
-
-It can build a main page store menu in an operating system.
+DeepJS is an open core javascript framework with protected services to boost it up.
 
 # Features
-1. Protected marketplace with empty accounts for sale
-2. Updatable world map player with history
-3. Runtime editor with static opensource code
+1. Protected marketplace with an empty accounts for sale as an requirement
+2. Updatable world map buildes its rules as rules as
+   2.1. Player
+   2.2. Data
+   2.3. Log
+3. Editable in runtime static source code
+
+# Layers
+DeepJS splited at layers:
+1. Build model with coins
+2. Color gradient textures
+3. System rating precompiles
+4. Object reference list 
+5. Serialized map data
+
 
 # Build tree 
 -Boolean[0, 1]
@@ -19,4 +29,3 @@ It can build a main page store menu in an operating system.
 
 ---Dictonary<Slot, Seed>
 
----String(728bits + 1 second)
