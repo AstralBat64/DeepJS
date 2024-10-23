@@ -3,10 +3,7 @@ DeepJS is a single script framework with editable in runtime core code and prote
 
 # Features
 1. Protected marketplace with an empty accounts for sale as an requirement
-2. Updatable world map buildes its rules as rules as
-   2.1. Player
-   2.2. Data
-   2.3. Log
+2. Updatable world map splited into player, data, changelog
 3. Editable in runtime static source code
 
 # Layers
@@ -16,16 +13,4 @@ DeepJS splited at layers:
 3. System rating precompiles
 4. Object reference list 
 5. Serialized map data
-
-
-# Build tree 
--Boolean[0, 1]
-
---Array[0, 0, 0, 1, 2, 3]
-
---Dice[1, 2, 3, 4, 5, 6]
-
----Slot[0...9, 0...9, 0...9]
-
----Dictonary<Slot, Seed>
 
