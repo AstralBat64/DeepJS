@@ -1,5 +1,5 @@
 # DeepJS
-DeepJS is an open core javascript framework with protected services to boost it up.
+DeepJS is a single script framework with editable in runtime core code and protected accounts with no modification options.
 
 # Features
 1. Protected marketplace with an empty accounts for sale as an requirement
